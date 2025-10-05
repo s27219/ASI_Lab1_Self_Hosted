@@ -1,5 +1,5 @@
 # Lab1
-
+## Note - Not set up at all (free to delete)
 ---
 
 1. Skopiowac pliki lokalnie i stworzyć swoje repozytorium z nazwą Lab-1_<twój-numer-studenta> i umieścić prywatne repozytorium w organizacji PJATK-ASI-2024, do repozytorium ma mieć dostęp tylko owner repozytorium.
